@@ -13,6 +13,10 @@
     <string name="banana_version">BananaDroid version</string>
     <string name="about_device_name">Device</string>
 
+    <!-- Hardware info -->
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Total RAM</string>
+
     <!-- SELinux Status -->
     <string name="selinux_status">SELinux status</string>
     <string name="selinux_status_disabled">Disabled</string>
