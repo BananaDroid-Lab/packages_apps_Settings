@@ -194,6 +194,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.android.settings.livedisplay.LiveDisplaySettings;
 import com.banana.settings.BananaGear;
+import com.banana.settings.fragments.ui.SmartPixels;
 
 import ink.kscope.settings.wifi.tether.WifiTetherClientManager;
 
@@ -379,7 +380,8 @@ public class SettingsGateway {
             RegionalPreferencesEntriesFragment.class.getName(),
             BananaGear.class.getName(),
             LiveDisplaySettings.class.getName(),
-            WifiTetherClientManager.class.getName()
+            WifiTetherClientManager.class.getName(),
+            SmartPixels.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -428,5 +430,6 @@ public class SettingsGateway {
             Settings.NavigationModeSettingsActivity.class.getName(),
             // BananaDroid
             Settings.BananaGearActivity.class.getName(),
+            Settings.SmartPixelsActivity.class.getName(),
     };
 }
