@@ -206,4 +206,8 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Force LTE CA</string>
     <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
+
+    <!-- FastCharge feature -->
+    <string name="fast_charging_title">Fast charging</string>
+    <string name="fast_charging_summary">Disable to reduce the heat produced by the device while charging or to extend the lifespan of the battery</string>
 </resources>
