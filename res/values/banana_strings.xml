@@ -237,4 +237,9 @@
     <string name="custom_theme_vivid">Vivid (Monet)</string>
     <string name="custom_theme_snowpaint">Paint in the Snow</string>
     <string name="custom_theme_espresso">Espresso</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
 </resources>
