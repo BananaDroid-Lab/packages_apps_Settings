@@ -238,4 +238,12 @@
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
     <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+
+    <!-- Custom themes -->
+    <string name="custom_theme_title">Use Custom theme</string>
+    <string name="custom_theme_black">Black</string>
+    <string name="custom_theme_clear">Clear</string>
+    <string name="custom_theme_vivid">Vivid (Monet)</string>
+    <string name="custom_theme_snowpaint">Paint in the Snow</string>
+    <string name="custom_theme_espresso">Espresso</string>
 </resources>
