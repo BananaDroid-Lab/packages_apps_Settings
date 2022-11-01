@@ -305,4 +305,8 @@
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Reset stats</string>
     <string name="battery_stats_message">Battery history stats are going to be reset</string>
+
+    <!-- Volume panel -->
+    <string name="volume_panel_category">Volume panel</string>
+    <string name="volume_dialog_timeout_title">Volume panel timeout</string>
 </resources>
