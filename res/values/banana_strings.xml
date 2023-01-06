@@ -256,4 +256,8 @@
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_to_sleep_title">Tap statusbar to sleep</string>
     <string name="double_tap_to_sleep_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+
+    <!-- Doze enablement -->
+    <string name="doze_enabled_title">Ambient display</string>
+    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
 </resources>
