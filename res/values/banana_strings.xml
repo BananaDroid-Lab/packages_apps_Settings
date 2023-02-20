@@ -443,4 +443,11 @@
     <string name="user_disallow_install_apps">Disallow installing apps</string>
     <!-- Title of preference to disallow installing apps [CHAR LIMIT=45] -->
     <string name="user_disallow_install_apps_unknown_sources">Disallow installing apps from third party sources</string>
+
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Always on display schedule</string>
+    <string name="always_on_display_schedule_sunset">Sunset</string>
+    <string name="always_on_display_schedule_sunrise">Sunrise</string>
+    <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
 </resources>
